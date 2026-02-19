@@ -3,8 +3,9 @@ name: iterative-excellence-framework
 description: Determine when to iterate further versus when work is complete, using Kubrick's insight that iteration is discovery, not repetition.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4263
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iterative-excellence-framework
 - writing
